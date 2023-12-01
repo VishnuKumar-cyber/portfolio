@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.763c6892.css",
+    "main.js": "/portfolio/static/js/main.b146546a.js",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.d1677dabe35dba9b8c8c.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.fcd256b6101cd30e22f8.jpg",
+    "static/media/profilephoto.jpg": "/portfolio/static/media/profilephoto.fd85c04158031bb0116b.jpg",
+    "static/media/im4.jpg": "/portfolio/static/media/im4.8a2640f9cba7b1a82480.jpg",
+    "static/media/Poppins-Thin.ttf": "/portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/portfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/portfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/portfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/portfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/portfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "index.html": "/portfolio/index.html",
+    "static/media/programming-skills.svg": "/portfolio/static/media/programming-skills.3bdce3e65068107428a1.svg",
+    "static/media/projects.svg": "/portfolio/static/media/projects.471fe875d8cdcbe0bbc4.svg",
+    "static/media/interests.svg": "/portfolio/static/media/interests.311391e8b5ae1f2a7364.svg",
+    "static/media/education.svg": "/portfolio/static/media/education.9ed8b53812c3beb648e1.svg",
+    "static/media/work-history.svg": "/portfolio/static/media/work-history.f8127a79c81e4defe8bc.svg",
+    "main.763c6892.css.map": "/portfolio/static/css/main.763c6892.css.map",
+    "main.b146546a.js.map": "/portfolio/static/js/main.b146546a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763c6892.css",
+    "static/js/main.b146546a.js"
+  ]
+}
