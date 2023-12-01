@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de8484e5.css",
+    "main.js": "/static/js/main.af8de9ab.js",
+    "static/media/bg.jpg": "/static/media/bg.d1677dabe35dba9b8c8c.jpg",
+    "static/media/me.jpg": "/static/media/me.fcd256b6101cd30e22f8.jpg",
+    "static/media/profilephoto.jpg": "/static/media/profilephoto.fd85c04158031bb0116b.jpg",
+    "static/media/im4.jpg": "/static/media/im4.8a2640f9cba7b1a82480.jpg",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/programming-skills.svg": "/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "index.html": "/index.html",
+    "static/media/projects.svg": "/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.de8484e5.css.map": "/static/css/main.de8484e5.css.map",
+    "main.af8de9ab.js.map": "/static/js/main.af8de9ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8484e5.css",
+    "static/js/main.af8de9ab.js"
+  ]
+}
