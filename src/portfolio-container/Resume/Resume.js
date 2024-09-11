@@ -65,28 +65,25 @@ const Resume = (props) => {
   ];
 
   const projectsDetails = [
-    {
-      title: "Blood Donation Application",
-      duration: { fromDate: "2021", toDate: "2022" },
+     {
+      title: "Result Application in Flutter for our College Management",
+      duration: { fromDate: "FEB 2024", toDate: "MAR 2024" },
       description:
-        "My First Mobile Application that i learnend to develop my UG Project.",
-      subHeading: "Technologies Used: Android Studio,Firebase",
+        "This is my final semester project in my Post Graduate where I developed a flutter application for my depart for result publishing ",
     },
     {
-      title: "Chat App",
-      duration: { fromDate: "2022", toDate: "2023" },
+      title: "Cooking app Frontend",
+      duration: { fromDate: "MAR 2024", toDate: "APRIL 2024" },
       description:
-        "An independent chat application that can be able to send messages in real time using firebase as backend",
-      subHeading: "Technologies Used:  Flutter,Flutter Cli,Firebase.",
+        "I developed the Frontend UI for my Company project featuring the product of cooking receipes and video sessions.",
     },
     {
-      title: "My Portfolio website",
-      duration: { fromDate: "2022", toDate: "2023" },
+      title: "Construction Website",
+      duration: { fromDate: "APRIL 2024", toDate: "PRESENT },
       description:
-        "I created my portfolio from react by learning from ehiedu to showcase my work and my ideas in on e single endity",
-      subHeading:
-        "Technologies Used: Mongo DB, Epress Js, React Js, Node JS, Redux, Bootstrap.",
+        "This is my currently ongoing project in my company where i am developing a responsive site for a construction company",
     },
+  
     
   ];
 
@@ -129,6 +126,50 @@ const Resume = (props) => {
         <div className="experience-description">
           <span className="resume-description-text">
             - By far,this has leverage my level of developing apps so that able to integraded backend services also.
+          .
+          </span>
+          <br />
+        </div>
+      </div>
+    </div>,
+            <div className="resume-screen-container" key="work-experience">
+      <div className="experience-container">
+        <ResumeHeading
+          heading={"White Crappie Technologies"}
+          subHeading={"FLUTTER INTERN"}
+          fromDate={"01-2024"}
+          toDate={"03-2024"}
+        />
+        <div className="experience-description">
+          <span className="resume-description-text">
+         In this Intern ,I gained the experience of how to get the insights of the project by executing the expectations of the client
+          </span>
+        </div>
+        <div className="experience-description">
+          <span className="resume-description-text">
+            - By far,this has leverage my level of developing apps so that able to build apps properly also.
+          .
+          </span>
+          <br />
+        </div>
+      </div>
+    </div>,
+            <div className="resume-screen-container" key="work-experience">
+      <div className="experience-container">
+        <ResumeHeading
+          heading={"Admiro Soft Technologies"}
+          subHeading={"FLUTTER DEVELOPER (FRONTEND)"}
+          fromDate={"04-2024"}
+          toDate={"PRESENT"}
+        />
+        <div className="experience-description">
+          <span className="resume-description-text">
+          I have been working for this company as a frontend developer in flutter and I have gained the experience doing the full frontend project
+          </span>
+        </div>
+        <div className="experience-description">
+          <span className="resume-description-text">
+            -This has been an wonderful expencience in my career as well as break through for my next levelin my career.
           .
           </span>
           <br />
